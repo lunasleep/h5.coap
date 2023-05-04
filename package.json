@@ -1,6 +1,6 @@
 {
   "name": "@eight/h5.coap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Implementation of the Constrained Application Protocol (CoAP) client for node.js.",
   "keywords": ["h5", "coap", "protocol"],
   "license": "MIT",
